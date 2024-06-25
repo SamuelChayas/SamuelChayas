@@ -41,4 +41,4 @@
 </div>
 
 ###
-https://github-profile-trophy.vercel.app/?username=SamuelChayas&theme=gruvbox
+ <img src=https://github-profile-trophy.vercel.app/?username=SamuelChayas&theme=gruvbox/>
