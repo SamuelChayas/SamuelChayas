@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I am a Jr. programmer who is studying to be a full stack. 🤠</h2>
+<h2 align="left">Hi, I am a Jr. programmer who is studying to be a full stack. </h2>
 
 ###
 
